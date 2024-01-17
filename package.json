@@ -2,7 +2,7 @@
   "name": "proj",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Aliya-Gajendragad/UI-using-react-and-MUI",
+  "homepage": "https://github.com/Aliya-Gajendragad/React_code",
   "dependencies": {
     "@apollo/client": "^3.8.9",
     "@emotion/react": "^11.11.3",
