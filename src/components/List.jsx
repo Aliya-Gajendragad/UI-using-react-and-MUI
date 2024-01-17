@@ -98,13 +98,13 @@ function CountryList() {
                 <StyledTableCell align="right">{country.code}</StyledTableCell>
                 <StyledTableCell align="right">{country.emoji}</StyledTableCell>
                 <StyledTableCell align="right">{country.continent.name}</StyledTableCell>
-              </StyledTableRow>
+              </StyledTableRow> 
             ))}
           </TableBody>
         </Table>
         <TablePagination
           style={{ color: 'black' }}
-          backgroundColor='blue'
+         
           rowsPerPageOptions={[10, 20,50,100]}
           component="div"
           count={countries.length}
